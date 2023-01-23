@@ -16,7 +16,7 @@ def draw_fifty_pence(n):
 
         # Move turtle to next position
         turtle.penup()
-        turtle.forward(100)
+        turtle.forward(150)
         turtle.pendown()
 
 # Ask user for input
